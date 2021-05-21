@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedesRest", "RedesRest\RedesRest.csproj", "{138E4A9F-4B67-45B3-9181-72A0ED13100B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedesRestModel", "RedesRestModel\RedesRestModel.csproj", "{EA0C5F22-376B-4624-8929-2B45CDB3A93D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{138E4A9F-4B67-45B3-9181-72A0ED13100B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{138E4A9F-4B67-45B3-9181-72A0ED13100B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{138E4A9F-4B67-45B3-9181-72A0ED13100B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{138E4A9F-4B67-45B3-9181-72A0ED13100B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA0C5F22-376B-4624-8929-2B45CDB3A93D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA0C5F22-376B-4624-8929-2B45CDB3A93D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA0C5F22-376B-4624-8929-2B45CDB3A93D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA0C5F22-376B-4624-8929-2B45CDB3A93D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
